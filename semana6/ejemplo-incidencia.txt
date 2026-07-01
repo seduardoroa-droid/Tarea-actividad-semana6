@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 170
+ETag: W/"aa-+3zWz/KPinuNlA4PJN1h2vZKbA0"
+Date: Wed, 01 Jul 2026 00:30:03 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Recoleccion Basuras",
+  "descripcion": "Se evidencia que la basura del sector del parque no se ha recogido en mas de dos semanas."
+}

@@ -1,0 +1,17 @@
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Dayana",
+  "mensaje": "Hola comunidad"
+}
+
+### Ejemplo nueva incidencia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Recoleccion Basuras",
+  "descripcion": "Se evidencia que la basura del sector del parque no se ha recogido en mas de dos semanas."
+}
+
